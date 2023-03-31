@@ -2,7 +2,7 @@
 /*
 !wp-content/
 !.ddev/
-!.github/workflows/
+!.github/
 
 # ignore everything in the "wp-content" directory, except:
 # "plugins", "themes" directory
